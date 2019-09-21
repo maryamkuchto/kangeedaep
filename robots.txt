@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eexeeleivi.cromize.net/sitemap.xml
